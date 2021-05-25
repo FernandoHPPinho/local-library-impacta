@@ -4,7 +4,7 @@ on:
   push:
     branches: [ main ]
 env:
-  WORKFLOW_VAR: 'app-nomeado-pela-variavel'
+  WORKFLOW_VAR: 'app-nomeado-pela-variavel_ex2'
 
 jobs:
   build:
